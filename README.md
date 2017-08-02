@@ -4,8 +4,8 @@ This repository includes examples from the Sebastian Bergmann`s well-known test 
 
 ## Setup
 
-1- Install composer
-2- Install phpunit globally
+* Install composer
+* Install phpunit globally
 
 ## Run
 
