@@ -10,5 +10,6 @@ This repository includes examples from the Sebastian Bergmann`s well-known test 
 ## Run
 
 Simply enter the following command inside the command-prompt/terminal:
-
-  phpunit
+```
+phpunit
+```
